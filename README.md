@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+ - The purpose of this analysis was to measure how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
