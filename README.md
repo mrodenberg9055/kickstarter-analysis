@@ -27,8 +27,8 @@
  2. The number of campaigns where the goal amount is > $10,000 is a fairly small number which makes it hard to draw any real conclusions from that data but they fail more often than they are successful.
 
 - What are some limitations of this dataset?
- - When looking at goal amounts, the number of campaigns drops significantly as the goal amount increases making it hard to trust the sample size and draw real conclusions.  
+   - When looking at goal amounts, the number of campaigns drops significantly as the goal amount increases making it hard to trust the sample size and draw real conclusions.  
 
 - What are some other possible tables and/or graphs that we could create?
- - We looked at launch date, but we could also take the end date and create a campaign duration and analyze how successful campaigns are the longer they last. 
+   - We looked at launch date, but we could also take the end date and create a campaign duration and analyze how successful campaigns are the longer they last. 
 
